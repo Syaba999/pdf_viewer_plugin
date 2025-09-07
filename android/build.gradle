@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'dev.britto.pdf_viewer_plugin'
-    compileSdkVersion 30
+    compileSdkVersion 36
 
     defaultConfig {
         minSdkVersion 16
